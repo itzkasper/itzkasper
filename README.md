@@ -4,5 +4,4 @@
   Work on some open sources project that will alow me to learn real life development.</p>
   <hr>
   <img src="https://i.pinimg.com/564x/60/d3/c2/60d3c2d2c8a274cd89caff594c758522.jpg" />
-  have a awesome day, reader!
 </center>
